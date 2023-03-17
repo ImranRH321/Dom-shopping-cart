@@ -9,7 +9,6 @@ document
     priceIncaseOrDecrees("phonePriceText", inputValueUpdate, 59);
     //  ====================
     const phonePrice1 = textConvertPrice("priceText");
-    //  console.log('phonePrice1',phonePrice1);
     // phone 2
     const phonePrice2 = textConvertPrice("phonePriceText");
     // console.log('phonePrice2',phonePrice2);
@@ -40,7 +39,6 @@ document
     //  ====================
 
     const phonePrice1 = textConvertPrice("priceText");
-    //  console.log('phonePrice1',phonePrice1);
     // phone 2
     const phonePrice2 = textConvertPrice("phonePriceText");
     // console.log('phonePrice2',phonePrice2);
